@@ -1,2 +1,2 @@
-# JavaScript30
-30 projects built with vanilla JavaScript, HTML and CSS
+# JavaScript30 🍦 
+30 projects built with Vanilla JavaScript, HTML and CSS
